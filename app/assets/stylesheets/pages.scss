@@ -1,0 +1,24 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.scss.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$primary: #504FBE;
+$second: #09E1C0;
+$white: #FFFFFF;
+
+.top-header {
+  background: $primary;
+  height: 2em;
+  li {
+    display: inline;
+    list-style: none;
+  }
+  li span {
+    padding: 0 20px 0 0;
+    color: $white;
+    font-size: .8em;
+    font-weight: bold;
+  }
+  .svg-inline--fa.fa-w-16, .svg-inline--fa.fa-w-12 {
+    margin-right: 5px;
+  }
+}
