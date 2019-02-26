@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64343360-9279-43dd-8d21-daa6382ad9c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,7 @@
           <entry key="Capfile" value="4" />
           <entry key="Gemfile" value="11" />
           <entry key="coffee" value="1" />
-          <entry key="erb" value="301" />
+          <entry key="erb" value="312" />
           <entry key="js" value="2" />
           <entry key="lock" value="17" />
           <entry key="rb" value="21" />
@@ -109,7 +109,7 @@
           <entry key="CoffeeScript" value="1" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="17" />
-          <entry key="RHTML" value="301" />
+          <entry key="RHTML" value="312" />
           <entry key="Ruby" value="36" />
           <entry key="SCSS" value="341" />
           <entry key="YAML" value="1" />
@@ -147,11 +147,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
+            <state relative-caret-position="228">
+              <caret line="27" column="120" selection-start-line="27" selection-start-column="120" selection-end-line="27" selection-end-column="120" />
             </state>
           </provider>
         </entry>
@@ -195,7 +195,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
@@ -255,9 +255,9 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/pages.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -480,12 +480,12 @@
       <workItem from="1551124278169" duration="1322000" />
       <workItem from="1551128609069" duration="166000" />
       <workItem from="1551128783379" duration="2121000" />
-      <workItem from="1551193732875" duration="5603000" />
+      <workItem from="1551193732875" duration="5771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20301000" />
+    <option name="totallyTimeSpent" value="20469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1971" y="36" width="1782" height="998" extended-state="0" />
@@ -659,13 +659,6 @@
     <entry file="file://$PROJECT_DIR$/app/assets/images/logo@2x.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="9" column="84" selection-start-line="9" selection-start-column="84" selection-end-line="9" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -694,6 +687,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="120" selection-start-line="27" selection-start-column="120" selection-end-line="27" selection-end-column="120" />
         </state>
       </provider>
     </entry>
