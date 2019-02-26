@@ -5,9 +5,22 @@ $primary: #504FBE;
 $second: #09E1C0;
 $white: #FFFFFF;
 
+body {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+section.content {
+  margin-top: 100px;
+}
+
 .top-header {
   background: $primary;
-  height: 2em;
+  height: 4em;
   li {
     display: inline;
     list-style: none;
@@ -21,8 +34,19 @@ $white: #FFFFFF;
   .svg-inline--fa.fa-w-16, .svg-inline--fa.fa-w-12 {
     margin-right: 5px;
   }
-  .nav {
+  .navbar {
     padding: 0 50px;
   }
+  .navbar-item img {
+   max-height: 6rem;
+  }
+}
+
+
+section.home {
+
+  background: linear-gradient(180deg,#474ab6 0%,#9271f6 100%)!important;
+  background-repeat:no-repeat ;
+
 }
 
