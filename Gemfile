@@ -21,6 +21,8 @@ gem 'capistrano-passenger', '~> 0.2.0'
 gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
 gem 'postgresql', '~> 1.0'
 gem 'pg', '~> 1.1', '>= 1.1.4'
+gem 'devise', '~> 4.6', '>= 4.6.1'
+gem 'jquery-rails'
 
 
 group :development, :test do
